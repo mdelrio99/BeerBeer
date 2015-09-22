@@ -2,8 +2,8 @@
 logs
 *.log
 
-# Project Settings
-*.idea
+# WebStorm Directory
+.idea
 
 # Runtime data
 pids
